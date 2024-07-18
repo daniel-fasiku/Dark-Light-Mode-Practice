@@ -1,0 +1,37 @@
+.main-container {
+    padding-left: 30px;
+    padding-top: 200px;
+    min-width: 320px;
+    min-height: 100vh;
+}
+.main-container-dark-mode {
+    padding-left: 30px;
+    padding-top: 200px;
+    min-width: 320px;
+    min-height: 100vh;
+}
+.main-topic-text {
+    color: #2B283A;
+    font-size: 36px;
+}
+.main-topic-text-dark-mode {
+    color: #FFFFFF;
+    font-size: 36px;
+}
+.text-list {
+    font-size: 20px;
+}
+.text {
+    color: #2B283A;
+    margin-bottom: 20px;
+}
+.text::marker {
+    color: #00ABCA;
+}
+.text-dark-mode {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.text-dark-mode::marker {
+    color: #00ABCA;
+}
